@@ -6,7 +6,7 @@ let bool2 = false
 let nl= null
 let und = undefined
 
-console.table([Number(nm),Number(numst),Number(numstr),Number(bool),Number(bool2),Number(nl),Number(und)])
+console.table([Number(nm),Number(numst),Number(numstr),Number(bool),Number(bool2),Number(nl),Number(und),Boolean(und)])
 
 // "" --> boolean = false
 // "alokesh" --> boolean = true
